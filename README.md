@@ -2,10 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CD853F&size=30&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Isadora+Braide+&#9790;;;Bem+vindo!)](https://git.io/typing-svg)
 
-# 
-<p>&nbsp;<img align="center" ("![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 <div align="center"> 
 
